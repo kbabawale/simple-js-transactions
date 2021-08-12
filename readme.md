@@ -1,0 +1,2 @@
+- Run npm run start to start app
+- Run npm test to test
